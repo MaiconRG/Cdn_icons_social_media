@@ -1,2 +1,2 @@
-# Cdn_icons_social_media
-Distribuição de ícones para paginas online
+# Cdn  de icons de redes sociais
+Distribuição de ícones para paginas webs
